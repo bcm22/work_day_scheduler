@@ -17,6 +17,7 @@ This project is used to organize someones work day (9AM - 5PM). The user can sel
 ## Deployed Application
 
 Here is a link to view the application: https://github.com/bcm22/work_day_scheduler. Below is a screen shot of the application as well. 
-<img width="1440" alt="Screenshot 2023-10-17 at 2 40 54 PM" src="https://github.com/bcm22/work_day_scheduler/assets/135455152/4637757d-332a-4266-bb6e-4dfda224dae7">
+
+<img width="1423" alt="Screenshot 2023-10-17 at 2 40 54 PM" src="https://github.com/bcm22/work_day_scheduler/assets/135455152/a0adaeaa-0028-41fd-9343-63366a0784af">
 
 
